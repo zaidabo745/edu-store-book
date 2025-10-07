@@ -1,0 +1,21 @@
+{
+  "name": "برنامج إدارة الكتب المدرسية",
+  "short_name": "إدارة الكتب",
+  "description": "تطبيق لتسهيل عمليات صرف وتوزيع الكتب المدرسية.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#074b93",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
